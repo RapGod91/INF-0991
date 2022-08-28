@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     { 
-	// Alteração realizada por Raphael
+	// Alteração realizada por Raphael Rodrigues
         string ano;
         ano = Console.ReadLine();
         int anoInt = Convert.ToInt16(ano);
