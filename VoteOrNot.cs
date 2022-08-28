@@ -1,12 +1,12 @@
-﻿internal class Program
+internal class Program
 {
     private static void Main(string[] args)
     { 
 	// Alteração realizada por Julio
-        string ano;
+	        string ano;
         ano = Console.ReadLine();
         int anoInt = Convert.ToInt16(ano);
-        if(anoInt > 15 && < 18) {
+        if(anoInt > 15 & < 18) {
             Console.WriteLine("Pode votar");
         
         } else if (anoInt >=18 ){   
