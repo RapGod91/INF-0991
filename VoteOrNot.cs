@@ -17,5 +17,5 @@ internal class Program
         }
     
     }
-    // Outra alteração realizada por Julio
+    // Outra alteração realizada por Lucas
 }
