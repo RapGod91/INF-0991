@@ -2,7 +2,7 @@ internal class Program
 {
     private static void Main(string[] args)
     { 
-	// Alteração realizada por Julio
+	// Alteração realizada por Lucas
 	        string ano;
         ano = Console.ReadLine();
         int anoInt = Convert.ToInt16(ano);
@@ -17,5 +17,6 @@ internal class Program
         }
     
     }
-    // Outra alteração realizada por Julio
+    // Outra alteração realizada por Lucas
 }
+
